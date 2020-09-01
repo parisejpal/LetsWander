@@ -1,0 +1,76 @@
+.inline {
+    display: inline
+}
+
+#topsection {
+    background: url(image.jpg) ;
+    background-size: 100%;
+    color: azure;
+}
+
+
+
+#button {
+    position:relative;
+    margin-right: 50px;
+    border-top: 10px;
+    
+}
+#title {
+    padding-left: 20px;
+    padding-top: 20px;
+    
+}
+#logo {
+    display: flex;
+    align-items:flex-start;
+    justify-content:flex-start;
+    
+}
+
+#title2 {
+    padding-left: 150px;
+    padding-bottom: 70px;
+}
+
+
+.block {
+    padding: 0 !important;
+    margin: 0 !important;
+    
+}
+
+.rowspace {
+    background-color:lavender;
+    padding-top: 20px;
+    padding-bottom: 20px;   
+}
+
+.tada{
+    background-color: antiquewhite;
+    padding-left: 200px;
+    padding-right: 100px;
+}
+
+.spacing {
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 400px;
+    padding-right: 200px;
+    text-decoration-line: underline;
+}
+
+
+.spacing1 {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 400px;
+    padding-right: 200px;
+}
+
+.text{
+    color: beige;
+    
+}
