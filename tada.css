@@ -36,8 +36,7 @@
 
 .block {
     padding: 0 !important;
-    margin: 0 !important;
-    
+    margin: 0 !important; 
 }
 
 .rowspace {
@@ -49,7 +48,7 @@
 .tada{
     background-color: antiquewhite;
     padding-left: 200px;
-    padding-right: 100px;
+    padding-right: 101px;
 }
 
 .spacing {
