@@ -1,0 +1,60 @@
+body{
+margin: 0;
+padding: 0;
+text-align: center;
+background: url(contactus.jpg);
+background-size: cover;
+font-family: Century Gothic;
+
+}
+
+.title{
+margin-top: 200px;
+color: #fff;
+}
+
+.title h1{
+font-size: 32px;
+line-height: 10px;
+}
+
+.title h2{
+font-size: 20px;
+}
+
+form{
+margin-top: 100px;
+}
+
+.form-control{
+width: 600px;
+background: transparent;
+border: none;
+outline: none;
+border-bottom: 1px solid grey;
+color: #fff;
+font-size: 20px;
+margin-bottom: 10px;
+}
+
+input{
+height: 20px;
+}
+
+.submit{
+background-color: #ff5722;
+border-color: transparent;
+color: #fff;
+font-size: 20px;
+letter-spacing: 2px;
+height: 50px;
+width: 150px;    
+margin-top: 20px;
+transition: 0.4s ease;
+
+}
+
+form .submit:hover{
+background-color: #f44336;
+cursor: pointer;
+}

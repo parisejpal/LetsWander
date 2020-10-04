@@ -1,5 +1,6 @@
 .inline {
-    display: inline
+    display: inline;
+    padding-left: 20px;
 }
 
 #topsection {
@@ -7,7 +8,9 @@
     background-size: 100%;
     color: azure;
 }
-
+.font{
+    font-family: inherit;
+}
 
 
 #button {
@@ -29,12 +32,17 @@
 }
 
 #title2 {
+    font-family: cursive;
     padding-left: 150px;
     padding-bottom: 70px;
 }
 
 
 .block {
+    margin-left: 10px;
+    font-style: italic;
+    font-size: 40px;
+    font-family: serif;
     padding: 0 !important;
     margin: 0 !important; 
 }
@@ -46,6 +54,9 @@
 }
 
 .tada{
+    font-style: italic;
+    font-size: 40px;
+    font-family: serif;
     background-color: antiquewhite;
     padding-left: 200px;
     padding-right: 101px;
@@ -70,6 +81,11 @@
 }
 
 .text{
+    font-display: optional;
+    font-family: sans-serif;
     color: beige;
     
+}
+.margin{
+    margin: 0px 10px;
 }
